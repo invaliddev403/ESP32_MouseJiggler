@@ -74,9 +74,6 @@ Use the web interface to:
 
 ---
 
-## 🛠️ Example Screenshot (optional)
+## 🛠️ Example Screenshot
 
-You can add a screenshot here:
-
-```markdown
-![Web UI Screenshot](images/ui.png)
+![Web UI Screenshot](images/ui.png "Web UI Screenshot")
